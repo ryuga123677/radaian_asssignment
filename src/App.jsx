@@ -139,7 +139,7 @@ function App() {
               <div className="">
                 <button
                   variant="contained"
-                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2"
+                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2 text-white"
                 >
                   View
                 </button>
@@ -198,7 +198,7 @@ function App() {
               <div className="">
                 <button
                   variant="contained"
-                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2"
+                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2 text-white"
                 >
                   View
                 </button>
@@ -249,7 +249,7 @@ function App() {
               <div className="">
                 <button
                   variant="contained"
-                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2"
+                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2 text-white"
                 >
                   View
                 </button>
@@ -300,7 +300,7 @@ function App() {
               <div className="">
                 <button
                   variant="contained"
-                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2"
+                  className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2 text-white"
                 >
                   View
                 </button>
@@ -334,7 +334,7 @@ function App() {
             <div className="">
               <button
                 variant="contained"
-                className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2"
+                className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2 text-white"
               >
                 View
               </button>
@@ -362,7 +362,7 @@ function App() {
             <div className="">
               <button
                 variant="contained"
-                className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2"
+                className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2 text-white"
               >
                 View
               </button>
@@ -390,7 +390,7 @@ function App() {
             <div className="">
               <button
                 variant="contained"
-                className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2"
+                className="w-full rounded-lg bg-[#1B88F4] m-2 mr-6 p-2 text-white"
               >
                 View
               </button>
@@ -404,7 +404,7 @@ function App() {
             </Typography>
           </div>
           <div className="w-[32%]"></div>
-          <button className="bg-[#1B88F4] rounded-tr-lg rounded-br-lg p-3">
+          <button className="bg-[#1B88F4] rounded-tr-lg rounded-br-lg p-3 text-white">
             Sign up
           </button>
         </div>
